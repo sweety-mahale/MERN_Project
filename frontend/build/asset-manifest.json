@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.909075af.css",
+    "main.js": "/static/js/main.d502de37.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/hapy.jpg": "/static/media/hapy.f190534082b394f6e3d2.jpg",
+    "static/media/mike.jpg": "/static/media/mike.998bac32bd2fd859d177.jpg",
+    "static/media/sarah.jpg": "/static/media/sarah.7b5acdcd40af1b69340b.jpg",
+    "static/media/happy.jpg": "/static/media/happy.671d086d2f958c7b2b62.jpg",
+    "static/media/cover-bg.jpg": "/static/media/cover-bg.00b88a9bbe32b077aad6.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/oral-surgery.svg": "/static/media/oral-surgery.590bf339f8210b6c0f36ad0ac12290df.svg",
+    "static/media/teeth-whitening.svg": "/static/media/teeth-whitening.0075b21e32bb096b7a5fbec3fdf1d111.svg",
+    "static/media/periodontics.svg": "/static/media/periodontics.f815b9f3b70e1e6e33dec972a1377428.svg",
+    "static/media/painless-dentistry.svg": "/static/media/painless-dentistry.f5c206abb37e68ebce11829f000b4351.svg",
+    "index.html": "/index.html",
+    "main.909075af.css.map": "/static/css/main.909075af.css.map",
+    "main.d502de37.js.map": "/static/js/main.d502de37.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.909075af.css",
+    "static/js/main.d502de37.js"
+  ]
+}
