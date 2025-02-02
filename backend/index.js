@@ -6,7 +6,9 @@ require('dotenv').config()
 const connectDB = require('./config/db')
 const router = require('./routes')
 // const stripe = require('stripe')('sk_test_51PJVJZSGpZvoPybBYEufDLfAHcVXwiHaWRJugJpwhjZOAIZs7giMxWe6YRpiIfgZSWBMYdv4Kib76McP8bEtLQqP00HRQH2rYz')
+const path = require("path");
 
+app.use(express.static(path.join(__dirname, "build")));
 
 const app = express()
 app.use(cors({
