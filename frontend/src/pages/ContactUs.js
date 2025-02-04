@@ -26,7 +26,7 @@ function ContactUs() {
             <div class="bg-white relative flex flex-wrap py-6 rounded shadow-md">
                 <div class="lg:w-1/2 px-6">
                     <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">ADDRESS</h2>
-                    <p class="mt-1">Photo booth tattooed prism, portland taiyaki hoodie neutra typewriter</p>
+                    <p class="mt-1">178 Phase-8, Indore, MP, INDIA</p>
                 </div>
                 <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
                     <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
@@ -52,7 +52,7 @@ function ContactUs() {
                 <label for="message" class="leading-7 text-sm text-gray-600">Message</label>
                 <textarea id="message" name="message" class="w-full bg-white rounded border border-gray-300 focus:border-red-500 focus:ring-2 focus:ring-red-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
             </div>
-            <button class="text-white bg-blue-teal-gradient border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">Button</button>
+            <button class="text-white bg-blue-teal-gradient border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">Submit</button>
             <p class="text-xs text-gray-500 mt-3"></p>
         </div>
     </div>
